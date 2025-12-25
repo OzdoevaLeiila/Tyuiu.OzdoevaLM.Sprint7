@@ -72,6 +72,7 @@
             pictureBoxInfMain_OLM.SizeMode = PictureBoxSizeMode.AutoSize;
             pictureBoxInfMain_OLM.TabIndex = 1;
             pictureBoxInfMain_OLM.TabStop = false;
+            pictureBoxInfMain_OLM.Click += pictureBoxInfMain_OLM_Click;
             // 
             // FormInfMain_OLM
             // 

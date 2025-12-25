@@ -16,5 +16,11 @@ namespace Tyuiu.OzdoevaLM.Sprint7.V13
         {
             InitializeComponent();
         }
+
+        private void pictureBoxInfMain_OLM_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+ 
